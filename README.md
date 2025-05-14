@@ -8,7 +8,7 @@ A complete and modern vehicle reservation system built with Symfony and API Plat
 1. Clone the repository:
    
 ```sh
-git clone https://github.com/elmehdizouihar/location-voiture-api.git
+git clone https://github.com/elmehdizouihar/api-car-rental.git
 ```
 
 2. Install dependencies:
